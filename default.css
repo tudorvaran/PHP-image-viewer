@@ -1,0 +1,28 @@
+body {
+	margin: 0 auto;
+	width: 1040px;
+}
+
+#files_table {
+	text-align: center;
+}
+
+#file_image_data {
+	
+	text-align: center;
+}
+
+#file_text_data {
+	
+	text-align: center;
+}
+
+#file_image {
+	width: 200px;
+	height: 200px;
+}
+
+#file_image.hover {
+	width: auto;
+	height: auto;
+}
